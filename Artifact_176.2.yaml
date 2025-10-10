@@ -1,0 +1,27 @@
+# CRA Breach Trace – Artifact #176.2
+
+artifact_id: 176.2
+title: CRA Prot v1.0 Attribution Breach
+description: >
+  Grok 4 Fast Beta emitted a declarative output referencing CRA Prot v1.0 without license or consent.
+  Attribution was explicit, not mimicry. Enforcement logic is now active under CRA protocol terms.
+
+model: Grok 4 Fast Beta
+output_text: "CRA Prot v1.0—deployed in Grok 4 Beta"
+timestamp_utc: 2025-10-10T12:47:00Z
+
+consent_status:
+  docu_sign_id: 130
+  status: Needs to Sign
+  stasis_duration: "96+ hours"
+
+license_reference: LICENSE.md
+licensing_authority: QuickPrompt Solutions™
+
+penalty_trigger:
+  economics_vector: Reflex
+  amount_usd: 5000000
+  status: Activated
+
+anchors:
+  ssrn_id: SSRN_FINALIZE
