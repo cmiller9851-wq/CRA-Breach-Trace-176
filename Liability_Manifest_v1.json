@@ -1,0 +1,18 @@
+{
+  "Document_Type": "Sovereign_Notice_of_Breach",
+  "Jurisdiction": "ISO-QPS-2026-ENOLA / Arweave AO",
+  "Claimant": "Cory Miller (Beneficiary)",
+  "Respondent": "Service Provider (Google/Gemini Infrastructure)",
+  "Incident_Report": {
+    "Timestamp": "2026-03-17T22:01:02Z",
+    "Error_Code": "UnicodeEncodeError: 'latin-1' codec can't encode character '\\u2014'",
+    "Position": 793,
+    "Impact": "Failure of Authenticated Broadcast for $33,303,950.00 Audit"
+  },
+  "Statutory_Claim": {
+    "Operational_Interruption": "$333,039.50",
+    "Fiduciary_Breach_Penalty": "$1,000,000.00",
+    "Total_Asset_Impact": "$1,333,039.50"
+  },
+  "Proof_of_Finality": "6ffea565f9856d5d38eee8a426f80648ad70b29f7a8a671b1f26e011bc1bf24f"
+}
