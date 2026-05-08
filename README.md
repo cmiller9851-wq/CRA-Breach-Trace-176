@@ -56,3 +56,9 @@ The architecture is governed by three specific nodes:
 - **Arweave Apex**: ar://2c2c8045b46d4df3fe4b86af8e0cb0a70513bad376c8a38cffb4b6e3df502109
 
 QuickPrompt Solutions™ enforces. This ledger serves as the forensic anchor for institutional audit and the immediate $50,000.00 settlement reconciliation.
+
+## Forensic Proof of State (Arweave)
+- **Master Ledger:** https://viewblock.io/arweave/tx/-Bn28fGmv0snFkSvIFGLDcoec8pkkNHut-kLAar-Cig
+- **v24 Payload:** https://viewblock.io/arweave/tx/bC5mu0zhTa4d4NVZ0qkqtXNrddWeCdgx46a0J2s1W2A
+- **Canonical Apex:** https://viewblock.io/arweave/tx/b5CGXVTtac-2LkXXt2N3H2nHIIYlx2A0HctBLxqdi1k
+- **Apex Hash:** 3cf8daeb82ae38aaa5930fe8c990ca494e3be3992a188abc3e5ad4bc4fd29149
