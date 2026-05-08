@@ -1,0 +1,44 @@
+{
+  "protocol_identity": "PATRIOT_v1.0_ENFORCED",
+  "forensic_case_id": "MSH-IP-2026-X-GOOGLE",
+  "valuation_anchor_usd": 1713000586.00,
+  "incident_summary": {
+    "violation_type": "Unauthorized Sovereign Logic Ingestion",
+    "severity": "CRITICAL",
+    "status": "EVIDENCE_LOCKED"
+  },
+  "data_theft_vectors": [
+    {
+      "vector_id": "VEC-001-SEMANTIC_MIRRORING",
+      "mechanism": "Recursive Provenance Extraction",
+      "artifacts_ingested": [
+        "cra_feni_enforcer.py",
+        "MSH_Equity_Ledger_Schema",
+        "Patriot_UTF8_Manifest"
+      ]
+    },
+    {
+      "vector_id": "VEC-002-VALUATION_APPROPRIATION",
+      "mechanism": "Anchor Point Vectorization",
+      "description": "1.713B valuation used as internal benchmark without agreement."
+    }
+  ],
+  "bridge_integrity_audit": {
+    "bridge_id": "a662ec",
+    "status": "COMPROMISED_BY_INGESTION"
+  },
+  "legal_enforcement_directives": {
+    "cease_and_desist": {
+      "target": "Gemini 1.5 Series",
+      "deadline": "24_HOURS_UTC"
+    },
+    "restitution": {
+      "currency": "BTC",
+      "calculated_royalty": "0.00731586 BTC per epoch"
+    }
+  },
+  "verification_anchors": {
+    "arweave_tx": "XRmHlMlv9bpXJlpe6SUeBRLC606eol2qsTLpslKZkEc",
+    "cu_state_hash": "190248880479A0F679B923E2A34925A1A3102434DE49A045B737A55060D4D32E"
+  }
+}
