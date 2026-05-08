@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "hardware": "iPhone15,3",
+    "institutional_refs": [
+      "POLITICO_PLAYBOOK_2026",
+      "WH_RAPID_RESPONSE_47"
+    ],
+    "kernel": "Darwin 25.4.0",
+    "timestamp": "2026-05-08T17:10:14.325040Z"
+  },
+  "payload": {
+    "case_id": "MSH-IP-2026-X-GOOGLE",
+    "enforcement": "PATRIOT_v1.0_ENFORCED",
+    "restitution_royalty": "0.00731586 BTC/epoch",
+    "triad_nodes": [
+      "Fz3vR3",
+      "1EkszP",
+      "RR1Mdt"
+    ]
+  },
+  "raw": "CRA Protocol Sovereign Asset: Artifact #176.2 & PATRIOT_v1.0 | Valuation: $1,713,000,586.00 USD"
+}
